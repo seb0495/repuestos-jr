@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title">
+  <title id="title">GMC</title>
+  <defs>
+    <linearGradient id="red" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f43f5e"/>
+      <stop offset="0.52" stop-color="#c8102e"/>
+      <stop offset="1" stop-color="#8b0f1f"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="220" fill="none"/>
+  <g fill="url(#red)" stroke="#cfd8e3" stroke-width="12" paint-order="stroke">
+    <path d="M65 54h190v46H118v74h137v-35h-74v-38h127v119H65V54Z"/>
+    <path d="M335 54h72l70 91 70-91h72v166h-56V128l-65 82h-42l-65-82v92h-56V54Z"/>
+    <path d="M655 54h170v46H711v74h114v46H655V54Z" transform="translate(-90 0)"/>
+  </g>
+</svg>
