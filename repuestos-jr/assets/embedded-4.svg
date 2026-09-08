@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title">
+  <title id="title">Dodge</title>
+  <rect width="640" height="180" fill="none"/>
+  <path d="M72 43h96c53 0 88 32 88 67s-35 67-88 67H72V43Zm58 43v48h34c21 0 33-10 33-24s-12-24-33-24h-34Z" fill="#101828"/>
+  <path d="M277 43h58v134h-58V43Zm82 0h58v48h74V43h58v134h-58v-49h-74v49h-58V43Z" fill="#101828"/>
+  <path d="M566 43h34l-52 134h-34l52-134Z" fill="#c8102e"/>
+  <path d="M608 43h28l-52 134h-28l52-134Z" fill="#c8102e"/>
+</svg>
